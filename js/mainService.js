@@ -13,5 +13,6 @@ angular.module('assessment').service('dataService', function(){
 
   ];
 
+console.log(productsArr);
 
 });  //end

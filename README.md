@@ -2,7 +2,7 @@
 
 
 ``1``
- Create a basic angular app that includes a mainCtrl,mainService,app.js and routes.js The index.html file is included in this repo so you dont need to add one.
+ Create a basic angular app that includes a mainCtrl,mainService,app.js and routes.js The index.html file is included in this repo so you don't need to add one.
 
 ``2``
  Config your router so that the home.html loads first. Also set up the routes for the about.html,blog.html and shop.html.
